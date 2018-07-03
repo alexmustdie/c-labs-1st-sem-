@@ -2,8 +2,6 @@
 #include <cmath>
 #include "rectangle.hpp"
 #include "circle.hpp"
-#include "triangle.hpp"
-#include "composite-shape.hpp"
 #include "matrix-shape.hpp"
 
 using namespace kovalenko;
